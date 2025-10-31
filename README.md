@@ -27,7 +27,7 @@ This portfolio highlights selected projects, frameworks, and case studies that i
 |-----------|--------------|-------------|
 | **📘 Product Case Studies** | Summaries of key projects and conceptual products | (https://github.com/josuecaamano-git/product-case-studies) |
 | **💻 Side Projects** | Independent prototypes and experiments | https://github.com/josuecaamano-git/side-projects |
-| **📋 PM Artifacts & Templates** | Examples of PRDs, roadmaps, and prioritization frameworks | [pm-artifacts](#) |
+| **📋 PM Artifacts & Templates** | Examples of PRDs, roadmaps, and prioritization frameworks | https://github.com/josuecaamano-git/pm-artifacts |
 | **🧠 Learning Journal** | Notes and reflections from ongoing courses and research | [learning-journal](#) |
 | **🔍 Product Teardowns** | Analyses of existing products and feature opportunities | [product-teardowns](#) |
 | **⚙️ System Thinking** | Architecture sketches and conceptual workflows | [product-systems](#) |
