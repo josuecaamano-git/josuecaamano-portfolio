@@ -25,7 +25,7 @@ This portfolio highlights selected projects, frameworks, and case studies that i
 
 | Category | Description | Repository |
 |-----------|--------------|-------------|
-| **📘 Product Case Studies** | Summaries of key projects and conceptual products | [product-case-studies](#)](https://github.com/josuecaamano-git/product-case-studies) |
+| **📘 Product Case Studies** | Summaries of key projects and conceptual products | (https://github.com/josuecaamano-git/product-case-studies) |
 | **💻 Side Projects** | Independent prototypes and experiments | [side-projects](#) |
 | **📋 PM Artifacts & Templates** | Examples of PRDs, roadmaps, and prioritization frameworks | [pm-artifacts](#) |
 | **🧠 Learning Journal** | Notes and reflections from ongoing courses and research | [learning-journal](#) |
